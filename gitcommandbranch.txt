@@ -1,0 +1,3 @@
+to create a new branch.
+
+git checkout -o "branchname"
