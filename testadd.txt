@@ -1,0 +1,5 @@
+Hi this is a new file.
+
+1. git aff <filename> : use this command to add a new file into the git.
+
+2. git commit -m "Message" : use this command to commit the file.
